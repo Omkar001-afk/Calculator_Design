@@ -1,4 +1,4 @@
-# Calcultor_Design
+# Calculator_Design
 UI design
 
 
